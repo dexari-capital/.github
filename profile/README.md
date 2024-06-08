@@ -1,4 +1,4 @@
-# Dexari Capital, LLC
+# Dexari Capital
 
 ![slack_dc_logo](https://github.com/dexari-capital/.github/assets/6106309/29bc7f4b-e228-47a3-96b9-0d3341224821)
 
