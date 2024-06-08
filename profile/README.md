@@ -23,4 +23,4 @@ We are Dexari Capital, a leading provider of qualitative algorithmic trading sol
 
 ## **About Us**
 
-Dexari Capital was founded by Evan Adams, Software Engineer and Inventor, with the goal of democratizing access to sophisticated trading strategies. We are committed to providing our clients with the tools and resources they need to achieve their financial goals.
+Dexari Capital was founded by Evan Adams, U.S. Software Engineer and Inventor, with the goal of democratizing access to sophisticated trading strategies. We are committed to providing our clients with the tools and resources they need to achieve their financial goals.
